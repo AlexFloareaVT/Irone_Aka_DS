@@ -21,7 +21,7 @@ Please enjoy making music with them, and helping them find a cure for their crea
 ## Character information
 - Gender: Agender
 - Height: 5'10
-- Weight: however much a metal android weighs
+- Weight: However much a metal android weighs
 - Age: 19
 - Optimal Range: F2 - A5
 
