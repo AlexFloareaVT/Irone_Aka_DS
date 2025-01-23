@@ -2,7 +2,7 @@
 
 <p align="center">
 🩷Although my heart's fake, I feel that it can beat.🤍<br><br>
-<img src="/Images/icon.png" width="250" title="Iconic!">
+<img src="/images/icon.png" width="250" title="Iconic!">
 </p>
 
 ***
